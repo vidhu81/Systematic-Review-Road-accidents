@@ -1,0 +1,15 @@
+2025-05-19 16:19:26,893 - elsapy.elsclient - INFO - Module loaded.
+2025-05-19 16:19:26,894 - elsapy.utils - INFO - Module loaded.
+2025-05-19 16:19:26,894 - elsapy.elssearch - INFO - Module loaded.
+2025-05-19 16:24:15,163 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22traffic+accident%22+OR+%22road+accident%22+OR+%22crash%22+OR+%22collision%22%29+AND+TITLE-ABS-KEY%28India%29+AND+PUBYEAR+%3E+2005+AND+PUBYEAR+%3C+2025
+2025-05-19 16:24:18,296 - elsapy.utils - INFO - Converting prism:coverDate
+2025-05-19 16:24:18,953 - elsapy.elsclient - INFO - Module loaded.
+2025-05-19 16:24:18,953 - elsapy.utils - INFO - Module loaded.
+2025-05-19 16:24:18,954 - elsapy.elssearch - INFO - Module loaded.
+2025-05-19 16:32:15,563 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22traffic+accident%22+OR+%22road+accident%22+OR+%22crash%22+OR+%22collision%22%29+AND+TITLE-ABS-KEY%28India%29+AND+PUBYEAR+%3E+2005+AND+PUBYEAR+%3C+2025
+2025-05-19 16:32:18,350 - elsapy.utils - INFO - Converting prism:coverDate
+2025-05-19 16:32:18,993 - elsapy.elsclient - INFO - Module loaded.
+2025-05-19 16:32:18,994 - elsapy.utils - INFO - Module loaded.
+2025-05-19 16:32:18,994 - elsapy.elssearch - INFO - Module loaded.
+2025-05-19 16:37:11,043 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22traffic+accident%22+OR+%22road+accident%22+OR+%22crash%22+OR+%22collision%22%29+AND+TITLE-ABS-KEY%28India%29+AND+PUBYEAR+%3E+2005+AND+PUBYEAR+%3C+2025
+2025-05-19 16:37:14,004 - elsapy.utils - INFO - Converting prism:coverDate
